@@ -1,39 +1,42 @@
-# future_m1_01
-This project is a Machine Learning notebook that demonstrates the implementation of basic ML concepts using Python. It includes data preprocessing, visualization, and model building using popular libraries.  The goal of this project is to understand how machine learning models are built and evaluated on real-world or sample dataset
-## Features
-Data loading and preprocessing
-Data visualization using graphs
-Model training using Machine Learning algorithms
-Performance evaluation
+# Future ML Task 1
 
-## Technologies Used
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+##  Project Overview
+This project is part of Future Interns Machine Learning Task.
 
-## Project Structure
+##  Dataset
+- Dataset used: "C:\Users\ganes\Downloads\online+retail.zip"
 
-future-ml/
-│── future_ml_01.ipynb
-│── requirements.txt
-│── README.md
+##  Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
-## How to Run
-Install dependencies:
-pip install -r requirements.txt
-Open the notebook:
-jupyter notebook
-Run all cells step by step
+##  Steps Performed
+1. Data Loading
+2. Data Preprocessing
+3. Feature Extraction
+4. Model Training
+5. Evaluation
 
-## Conclusion
+##  Output
+- Model accuracy
+   MAE: 15312.326458709276
+   RMSE: 25092.05274961664
+  <img width="1405" height="687" alt="Screenshot 2026-04-05 093701" src="https://github.com/user-attachments/assets/6e6d359e-0dd0-492c-bb89-9aa83f690cf0" />
+- prediction
+  <img width="1327" height="582" alt="Screenshot 2026-04-05 093935" src="https://github.com/user-attachments/assets/de789aba-1ace-4606-8dc6-8b25f954bfad" />
 
-This project helps in understanding the workflow of a Machine Learning project from data handling to model evaluation.
+##  How to Run
+1. Open notebook in Jupyter
+2. Run all cells
+
 
 ## Future Improvements
 Add more advanced ML models
 Improve accuracy
 use real-world datasets
+
+##  Author
+Surisetty Deepika
