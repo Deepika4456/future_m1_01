@@ -24,6 +24,8 @@ This project is part of Future Interns Machine Learning Task.
 - Model accuracy
    MAE: 15312.326458709276
    RMSE: 25092.05274961664
+  <img width="1287" height="569" alt="Screenshot 2026-04-05 102357" src="https://github.com/user-attachments/assets/fe073eb6-09de-4217-882b-90ed05dbc3d3" />
+
   <img width="1405" height="687" alt="Screenshot 2026-04-05 093701" src="https://github.com/user-attachments/assets/6e6d359e-0dd0-492c-bb89-9aa83f690cf0" />
 - prediction
   <img width="1327" height="582" alt="Screenshot 2026-04-05 093935" src="https://github.com/user-attachments/assets/de789aba-1ace-4606-8dc6-8b25f954bfad" />
