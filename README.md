@@ -32,11 +32,11 @@ This project is part of Future Interns Machine Learning Task.
 1. Open notebook in Jupyter
 2. Run all cells
 
-
-## Future Improvements
-Add more advanced ML models
-Improve accuracy
-use real-world datasets
+##  Future Improvements
+- Add more machine learning models
+- Improve accuracy using hyperparameter tuning
+- Deploy the model as a web app
+- Use deep learning techniques
 
 ##  Author
 Surisetty Deepika
